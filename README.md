@@ -2,10 +2,6 @@
   <img src="SenseSpotter-Splash-2.jpg" alt="SenseSpotter Logo" width="280"/>
 </p>
 
-<h1 align="center">
-  <span style="color:#4DB8FF;">Sense</span><span style="color:#FFFFFF;">Spotter</span>
-</h1>
-
 <p align="center">
   <strong>Open-source Android sensor, telemetry, and automation platform.</strong>
 </p>
